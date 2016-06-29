@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+encoding//src/com/localhost/bookstore/db/JDBCUtils.java=UTF-8
+encoding//src/com/localhost/bookstore/exception/DBException.java=UTF-8
